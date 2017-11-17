@@ -1,10 +1,6 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      <a href="#/test1">test1</a>
-      <a href="#/test2">test2</a>
-    </p>
 
   </div>
 </template>
@@ -14,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to test2'
     }
   }
 }

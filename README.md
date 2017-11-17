@@ -1,4 +1,4 @@
-# test-temp
+# xy-vue-template
 
 > A Vue.js project
 
